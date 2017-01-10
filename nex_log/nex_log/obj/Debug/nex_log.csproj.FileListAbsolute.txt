@@ -1,0 +1,11 @@
+d:\files\documents\visual studio 2015\Projects\nex_log\nex_log\bin\Debug\nex_log.exe.config
+D:\Files\Documents\Visual Studio 2015\Projects\nex_log\nex_log\bin\Debug\nex_log.exe
+D:\Files\Documents\Visual Studio 2015\Projects\nex_log\nex_log\bin\Debug\nex_log.pdb
+D:\Files\Documents\Visual Studio 2015\Projects\nex_log\nex_log\bin\Debug\Newtonsoft.Json.dll
+D:\Files\Documents\Visual Studio 2015\Projects\nex_log\nex_log\bin\Debug\Newtonsoft.Json.xml
+D:\Files\Documents\Visual Studio 2015\Projects\nex_log\nex_log\obj\Debug\nex_log.csprojResolveAssemblyReference.cache
+D:\Files\Documents\Visual Studio 2015\Projects\nex_log\nex_log\obj\Debug\nex_log.Form1.resources
+D:\Files\Documents\Visual Studio 2015\Projects\nex_log\nex_log\obj\Debug\nex_log.Properties.Resources.resources
+D:\Files\Documents\Visual Studio 2015\Projects\nex_log\nex_log\obj\Debug\nex_log.csproj.GenerateResource.Cache
+D:\Files\Documents\Visual Studio 2015\Projects\nex_log\nex_log\obj\Debug\nex_log.exe
+D:\Files\Documents\Visual Studio 2015\Projects\nex_log\nex_log\obj\Debug\nex_log.pdb
